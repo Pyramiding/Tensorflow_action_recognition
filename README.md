@@ -1,5 +1,5 @@
 # Tensorflow action recognition
-All operation is based KTH dataset, Alexnet and Vgg network.
+All operation is based KTH dataset, including Alexnet, Vgg16, LSTM, CNN-LSTM.
 
 1. Data reading: allreading, batch reading, tfrecord reding, list reading, tfrecord test
 2. Data preprocess: shuffle, resize, crop, standardization
